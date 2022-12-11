@@ -1,0 +1,19 @@
+
+W
+'src/test/java/constant/ApiConstant.java,a\c\acaf7974ce458f52c750a8bd703df94d180e84e3
+]
+-src/test/java/resources/PetCreateSuccess.json,7\7\77db1f45f3b44e65969cad22cc0a92e430d44e56
+Y
+)src/test/java/resources/PetUpdate400.json,2\c\2c4b47bc5378a935f14b69790404975347829f8b
+Y
+)src/test/java/resources/PetUpdate404.json,c\c\cc4ea819a3decb415887f95f1dabfe67933a3eb5
+Y
+)src/test/java/resources/PetCreate400.json,2\1\218fc5826db35d4235281db605cbbabff9d49516
+]
+-src/test/java/resources/PetUpdateSuccess.json,7\3\733744c5deaf8d8b43a375a71982522f0b2e09fb
+P
+ src/test/java/base/BaseTest.java,b\7\b7db9501819294794071ed8490857b8ada13054d
+O
+src/test/java/test/ApiTest.java,f\b\fb3c5101a2c163882195a2f8c10e391c508435b6
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
